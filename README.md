@@ -23,11 +23,13 @@ Needs Docker Desktop (running) and Git Bash. The .NET 10 SDK is needed only for 
 git clone --recursive https://github.com/eon704/MCSC6002_SecureInventory.git && cd MCSC6002_SecureInventory/MCSC6002_System
 ```
 
-Or extract the zip to a short path such as `C:\MCSC6002` (long paths hit the Windows 260-character limit), then:
+Or extract the zip (keep the path short, for example `C:\MCSC6002`: Windows limits paths to 260 characters), open Git Bash in the extracted `MCSC6002_SecureInventory` folder (right-click, Open Git Bash here), then:
 
 ```bash
-cd /c/MCSC6002/MCSC6002_SecureInventory/MCSC6002_System
+cd MCSC6002_System
 ```
+
+All later commands run in `MCSC6002_System`.
 
 **2. Set up and start** (first build takes a few minutes):
 
