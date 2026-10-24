@@ -1,0 +1,28 @@
+[submodule "MCSC6002_AuthLibrary"]
+	path = MCSC6002_AuthLibrary
+	url = https://github.com/SilveiraMHO/MCSC6002_AuthLibrary.git
+	branch = master
+[submodule "MCSC6002_ResponseLibrary"]
+	path = MCSC6002_ResponseLibrary
+	url = https://github.com/SilveiraMHO/MCSC6002_ResponseLibrary.git
+	branch = master
+[submodule "MCSC6002_IdentityService"]
+	path = MCSC6002_IdentityService
+	url = https://github.com/SilveiraMHO/MCSC6002_IdentityService.git
+	branch = master
+[submodule "MCSC6002_ProductService"]
+	path = MCSC6002_ProductService
+	url = https://github.com/SilveiraMHO/MCSC6002_ProductService.git
+	branch = master
+[submodule "MCSC6002_InventoryService"]
+	path = MCSC6002_InventoryService
+	url = https://github.com/SilveiraMHO/MCSC6002_InventoryService.git
+	branch = master
+[submodule "MCSC6002_ApiGateway"]
+	path = MCSC6002_ApiGateway
+	url = https://github.com/SilveiraMHO/MCSC6002_ApiGateway.git
+	branch = master
+[submodule "MCSC6002_System"]
+	path = MCSC6002_System
+	url = https://github.com/eon704/MCSC6002_System.git
+	branch = master
